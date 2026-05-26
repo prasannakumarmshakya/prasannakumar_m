@@ -50,8 +50,5 @@ STM32 Hardware Design
 * Embedded Linux
 
 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/prasannakumar-m-835082240
-Email: prasannakumarmshakya@gmail.com
-
-* LinkedIn: Add Your Link Here
-* Email: Add Your Email Here
+* LinkedIn: www.linkedin.com/in/prasannakumar-m-835082240
+* Email: prasannakumarmshakya@gmail.com
